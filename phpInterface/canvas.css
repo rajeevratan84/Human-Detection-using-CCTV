@@ -1,0 +1,18 @@
+
+        #image {
+            width: 385px;
+            height: 289px;
+            border: solid 1px red;
+            background-color: blue;
+            cursor: pointer;
+            position: relative;
+
+            background-image: url("https://icstoragett.s3.us-east-2.amazonaws.com/7bd934f2-8498-4235-b916-ab404285a155.jpg")
+        }
+
+
+        #rect {
+            border: solid 2px red;
+            pointer-events: none;
+            display: none;
+        }
